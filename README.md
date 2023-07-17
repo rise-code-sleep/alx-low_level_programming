@@ -24,3 +24,4 @@ The projects in this module covers **Low-level programming** and **Algorithms** 
 | [`0x0A-argc_argv`](https://github.com/rise-code-sleep/alx-low_level_programming/tree/master/0x0A-argc_argv) | This project looks into argc and argv in **C language**. |
 | [`0x0B-malloc_free`](https://github.com/rise-code-sleep/alx-low_level_programming/tree/master/0x0B-malloc_free) | This project looks into automatic and dynamic allocation, malloc and free in **C language**. |
 | [`0x0C-more_malloc_free`](https://github.com/rise-code-sleep/alx-low_level_programming/tree/master/0x0C-more_malloc_free) | This project dives more into automatic and dynamic allocation, malloc and free in **C language**. |
+| [`0x0D-preprocessor`](https://github.com/rise-code-sleep/alx-low_level_programming/tree/master/0x0D-preprocessor) | This project looks into the C program Compilation Process, object-like macros, macro arguments and include guard in **C language**. |
