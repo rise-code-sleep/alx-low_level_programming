@@ -26,3 +26,4 @@ The projects in this module covers **Low-level programming** and **Algorithms** 
 | [`0x0C-more_malloc_free`](https://github.com/rise-code-sleep/alx-low_level_programming/tree/master/0x0C-more_malloc_free) | This project dives more into automatic and dynamic allocation, malloc and free in **C language**. |
 | [`0x0D-preprocessor`](https://github.com/rise-code-sleep/alx-low_level_programming/tree/master/0x0D-preprocessor) | This project looks into the C program Compilation Process, object-like macros, macro arguments and include guard in **C language**. |
 | [`0x0E-structures_typedef`](https://github.com/rise-code-sleep/alx-low_level_programming/tree/master/0x0E-structures_typedef) | This project looks into typedef and Structures in **C language**. |
+| [`0x0F-function_pointers`](https://github.com/rise-code-sleep/alx-low_level_programming/tree/master/0x0F-function_pointers) | This project focuses on Function Pointers and Pointers to functions in **C language**. |
