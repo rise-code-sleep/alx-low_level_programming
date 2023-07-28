@@ -1,16 +1,14 @@
+#ifndef LISTS_H
+#define LISTS_H
+
 /*
  * File: lists.h
  * Auth: Rise Code Sleep
  * Desc: Header file containing prototypes and definitions for all functions
- *       and types written in the 0x12-singly_linked_lists.
+ *       and types written in the 0x12-singly_linked_lists directory
  */
 
-#ifndef LISTS
-#define LISTS
-
-#include <stdio.h>
 #include <stdlib.h>
-#include <string.h>
 
 /**
  * struct list_s - singly linked list
@@ -19,6 +17,7 @@
  * @next: points to the next node
  *
  * Description: singly linked list node structure
+ *              for ALX project
  */
 typedef struct list_s
 {
